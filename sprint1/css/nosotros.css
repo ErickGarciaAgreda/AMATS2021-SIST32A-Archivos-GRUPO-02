@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    }
+header,nav, section, aside,footer{
+    display: block;
+}
+body {
+    text-align: center;
+    }
+            #seccion {
+                float: left;
+                width: 250px;
+                margin: 0px;
+                text-align: center;
+                }
+                #contactos {
+                float: left;
+                text-align: center;
+                width: 600px;
+                margin: 20px 0px;
+                padding: 20px;
+                }
+.caja1 {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    background: #0082e6;
+    margin: 0 0 10px;
+    overflow: hidden;
+    padding: 15px;
+    height:720px; 
+/*    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;*/
+    border: 2px solid #fff;}
+
+.caja2 {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    background: #ffffffcc;
+    margin: 0 0 10px;
+    overflow: hidden;
+    padding: 10px;
+
+/*    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;*/
+ border: 2px solid #fff;}
+
+.caja3 {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    background: #0082e6;
+    margin: 0 0 10px;
+    overflow: hidden;
+    padding: 18px;
+
+/*    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;*/
+    border: 2px solid #fff;}
